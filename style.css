@@ -1,0 +1,49 @@
+.left{
+
+        width: 50%;
+        float: left;
+        height: 400px;
+        
+        
+}
+.con{
+        padding: 40px;
+        margin: 0%;
+        height: 400px;
+        
+}
+.right{
+        /* background-color: aqua; */
+           width: 50%;
+           float: left;
+           height: 500px;
+           padding-top: 0px;
+           color: white;
+   }
+   .launch-time{
+        display: flex;
+        float: left;
+   }
+   #time{
+        padding: 20px;
+        font-size: 40px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+   }
+   .body{
+     margin: 0px;
+   }
+   #days p{
+        font-size: 60px;
+   }
+   #hours p{
+        font-size: 60px;
+   }
+  
+   #seconds p{
+        font-size: 60px;
+   }
+  
+   #minutes p{
+        font-size: 60px;
+   }
+  
